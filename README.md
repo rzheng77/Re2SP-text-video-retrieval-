@@ -1,2 +1,2 @@
-# Re2SP-text-video-retrieval-
+# Re2SP-text-video-retrieval
 coming soon
